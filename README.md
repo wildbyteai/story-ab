@@ -5,7 +5,6 @@
 
 Story A/B\
 一份原稿，两个真相。\
-[github.com/wildbyteai/story-ab](https://github.com/wildbyteai/story-ab)
 
 `story-ab` 是一个叙事改写 Skill。它保留原文的事实骨架、篇章格式、语言节奏和认知毛边，将故事交给原文中被描述、被安排或被沉默的另一方重新讲述。
 
