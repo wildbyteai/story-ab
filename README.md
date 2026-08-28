@@ -32,11 +32,13 @@ Story A/B\
 
 ```text
 story-ab/
+├── LICENSE
 ├── SKILL.md
 └── agents/
     └── openai.yaml
 ```
 
+- `LICENSE`：MIT License，允许使用、复制、修改和分发。
 - `SKILL.md`：Skill 的完整方法和执行规则。
 - `agents/openai.yaml`：显示名称、简短介绍和默认调用提示词，不包含密钥或账号信息。
 
